@@ -1,4 +1,4 @@
-# Oasis_Infobyte_Task4
+# Oasis_Infobyte_Task3
 # Email Spam Detection using machine learning
 
 ![image](https://github.com/SiddhantLotlikar/Oasis_Infobyte_Task4/assets/129778306/214e6c1b-0498-4eca-b16c-9e53510df2bc)
